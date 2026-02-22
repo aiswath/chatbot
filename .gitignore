@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+bin/
+include/
+lib/
+lib64/
+pyvenv.cfg
+.idea/
+ngrok*
+.env
